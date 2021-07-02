@@ -1,0 +1,1 @@
+export const getVisibleBook = state => state.book;

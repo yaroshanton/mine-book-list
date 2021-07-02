@@ -1,0 +1,25 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Chekhov",
+      "author": "The Seagull",
+      "category": "Chekhov",
+      "isbn": 1234567
+    },
+    {
+      "id": 2,
+      "name": "Pushkin",
+      "author": "Dubrovsky",
+      "category": "Romance",
+      "isbn": 12345678
+    },
+    {
+      "id": 3,
+      "name": "Lermontov",
+      "author": "The Demon",
+      "category": "Fantasy",
+      "isbn": 123456789
+    }
+  ]
+}
