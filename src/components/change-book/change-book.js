@@ -16,7 +16,7 @@ class BookItemCreate extends Component {
   componentDidMount() {
     const { productId } = this.props.match.params;
 
-    axios.get(`product/${productId}`)
+    axios.get(`/product/${productId}`)
       .then(res => this.setState({ ...res.data }));
   }
 
