@@ -24,7 +24,7 @@
   "build": "react-scripts build",
   "test": "react-scripts test",
   "eject": "react-scripts eject",
-  "api-server": "json-server --port 4040 --delay 300 --watch db.json"
+  "api-server": "json-server --port 3001 --delay 300 --watch db.json"
  },
  "proxy": "http://localhost:3001",
  "eslintConfig": {
